@@ -3,3 +3,20 @@ body {
   color: Orange;
   font-family: "Courier New", Courier New, monospace;
 }
+
+#navbar {
+  position: absolute;
+  width: 10%;
+  border-style: solid;
+  border-right-width: 1px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-color: teal;
+}
+
+#main-area {
+  position: absolute;
+  width: 90%;
+  background-color: LightSlateGrey;
+}
